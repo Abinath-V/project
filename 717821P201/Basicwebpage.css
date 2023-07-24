@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    
+    }
+body{
+    background-color: hsl(0, 0%, 79%);
+}
+header{
+    color: white;
+    background-color: hsl(0, 0%, 29%);
+    align-items: center;
+    padding: 20px;
+}
+main{
+    padding-left: 50px;
+}
+img{
+    float: right;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+footer{
+    color: white;
+    padding: 20px;
+    margin-top: 250px;
+    background-color: hsl(0, 0%, 29%);
+}
